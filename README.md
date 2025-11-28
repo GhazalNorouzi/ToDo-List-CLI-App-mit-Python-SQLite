@@ -8,7 +8,8 @@ Das Projekt demonstriert grundlegende Python-Kenntnisse, modulare Programmierung
 ## Funktionen
 - Aufgaben hinzufügen, anzeigen, bearbeiten und löschen (CRUD)
 - Speicherung der Aufgaben in SQLite
-- Modularer Aufbau: separate Dateien für Datenbank, Logik und CLI
+- Modularer Aufbau: separate Dateien für Datenbank (db.py), Aufgabenlogik, (task.py) und CLI
+- (cli.py)
 - Einfache Bedienung über die Kommandozeile
 ---
 
